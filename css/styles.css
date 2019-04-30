@@ -71,6 +71,13 @@ body {
   font-style: normal;
 }
 
+.tags{
+  font-size: 0.5rem;
+  font-style: italic;
+  text-align: left;
+  margin-right: 4em;
+}
+
 #loadQuote {
   position: fixed;
   width: 12em;
