@@ -10,44 +10,44 @@ var quotes = [
   // Create at least 5 objects inside the array.
   {
     // Give at least 2 properties to every object: quote and source.
-    quote: "“Give me liberty, or give me death!”",
+    quote: "Give me liberty, or give me death!",
     source: "Patrick Henry",
     // Add the year property to at least 1 object.
     year: "1775",
     tags: "inspirational, philosophy"
   },
   {
-    quote: "“One good thing about music, when it hits you, you feel no pain.”",
+    quote: "One good thing about music, when it hits you, you feel no pain.",
     source: "Bob Marley",
     year: "1975",
     tags: "music"
   },
   {
-    quote: "“I have not failed. I've just found 10,000 ways that won't work.”",
+    quote: "I have not failed. I've just found 10,000 ways that won't work.",
     source: "Thomas A. Edison",
     tags: "edison, failure, inspirational, paraphrased"
   },
   {
-    quote: "“Always forgive your enemies; nothing annoys them so much.”",
+    quote: "Always forgive your enemies; nothing annoys them so much.",
     source: "Oscar Wilde",
     tags: "life"
   },
   {
-    quote: "“I am so clever that sometimes I don't understand a single word of what I am saying.”",
+    quote: "I am so clever that sometimes I don't understand a single word of what I am saying.",
     source: "Oscar Wilde",
     // Add the citation property to at least 1 object.
     citation: "The Happy Prince and Other Stories",
     tags: " intelligence, self-deprecation"
   },
   {
-    quote: "“Never go to bed mad. Stay up and fight.” ",
+    quote: "Never go to bed mad. Stay up and fight.",
     source: "Phyllis Diller",
     tags: "anger, funny, sleep"
   },
   {
-    quote: "“If a book about failures doesn't sell, is it a success?” ",
+    quote: "If a book about failures doesn't sell, is it a success?",
     source: "Jerry Seinfeld",
-    tags: " books, funny"
+    tags: "books, funny"
   },
 ];
 
@@ -55,7 +55,7 @@ var quotes = [
 console.log(quotes);
 
 // Create an array of colors
-var colors = ['#36b55c', '#367ab5', '#8236b5', '#b5366b', '#b56036','#b59e36','#389067', '#386a90', '#0d1e2c'];
+var colors = ["#36b55c", "#367ab5", "#8236b5", "#b5366b", "#b56036","#b59e36","#389067", "#386a90", "#0d1e2c"];
 
 // Create the `getRandomQuote` function
 function getRandomQuote(){
