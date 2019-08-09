@@ -13,6 +13,6 @@ My objective was to display a quote randomly from an Array of quotes and change 
 ## Exceeds Expectations:
 To exceed expectations I need to Set Intervals of 20 seconds for changing the background color and the quote.
 
-### Check it out
+## Check it out
 [Random Quote Generator](https://araqueheinz.github.io/Project-1_RQG/)
 
